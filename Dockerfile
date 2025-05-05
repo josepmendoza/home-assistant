@@ -1,2 +1,2 @@
 FROM lscr.io/linuxserver/homeassistant
-RUN pip3 -qq install ldap3
+RUN pip3 install ldap3
